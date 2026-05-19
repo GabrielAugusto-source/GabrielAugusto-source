@@ -60,12 +60,6 @@ I’m constantly improving my stack with a strong foundation in **Python, FastAP
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://shion.dev" />
-  <img height="170" src="https://shion.dev" />
-</p>
 
 
 
