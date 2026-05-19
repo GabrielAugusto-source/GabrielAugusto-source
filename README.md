@@ -63,8 +63,9 @@ I’m constantly improving my stack with a strong foundation in **Python, FastAP
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GabrielAugusto-source&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAugusto-source&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=GabrielAugusto-source&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=GabrielAugusto-source&layout=compact&theme=tokyonight" />
 </p>
+
 
 
