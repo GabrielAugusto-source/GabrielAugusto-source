@@ -1,4 +1,4 @@
-# Hi guys, Im Gabriel Augusto 👋🏻
+# Hi guys, I'm Gabriel Augusto 👋🏻
 
 🚀 **Intern Software Engineer Python FullStack**
 
