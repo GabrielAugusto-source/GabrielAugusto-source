@@ -1,6 +1,6 @@
 # Hi guys, I'm Gabriel Augusto 👋🏻
 
-🚀 **Intern Software Engineer Python FullStack**
+🚀 **Aspiring Full-Stack Python Software Engineer**
 
 ---
 
