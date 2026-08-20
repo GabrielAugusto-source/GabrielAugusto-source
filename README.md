@@ -1,4 +1,4 @@
-# Hi guys, I'm Gabriel Augusto 👋🏻
+# Hi, I'm Gabriel Augusto 👋🏻
 
 🚀 **Aspiring Full-Stack Software Engineer**
 
