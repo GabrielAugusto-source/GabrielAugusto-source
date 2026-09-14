@@ -20,13 +20,14 @@ I’m constantly improving my stack with a strong foundation in **Python, FastAP
   <a href="mailto:gabriel.augusto.diegues@gmail.com">
     <img src="https://shields.io" />
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-augusto-9bb3a1401">
+  <a href="https://linkedin.com">
     <img src="https://shields.io" />
   </a>
-  <a href="https://www.instagram.com/gabriel.augustod">
-    <img src="https://img.shields.io/badge/Instagram-@gabriel.augustod-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com">
+    <img src="https://shields.io" />
   </a>
 </p>
+
 
 
 ---
