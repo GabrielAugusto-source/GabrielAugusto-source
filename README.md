@@ -17,13 +17,17 @@ I’m constantly improving my stack with a strong foundation in **Python, FastAP
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/GabrielAugusto-source">
-    <img src="https://img.shields.io/badge/GitHub-GabrielAugusto-123?style=for-the-badge&logo=github" />
+  <a href="mailto:gabriel.augusto.diegues@gmail.com">
+    <img src="https://shields.io" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-augusto-9bb3a1401">
+    <img src="https://shields.io" />
   </a>
   <a href="https://www.instagram.com/gabriel.augustod">
     <img src="https://img.shields.io/badge/Instagram-@gabriel.augustod-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
