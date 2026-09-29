@@ -34,7 +34,7 @@ I’m constantly improving my stack with a strong foundation in **Python, FastAP
 
 ## 🧠 What I Do & Study
   - 🏗️ RESTful APIs & Backend Architecture
-  - ⚡ Efficient & clean Python code
+  - ⚡ Efficient & clean code
   - 🧩 Clean code practices & system logic
   - 🗄️ Relational database design & SQL queries
   - ⚙️ Core business logic & workflows
